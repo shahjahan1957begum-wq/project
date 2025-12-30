@@ -9,6 +9,7 @@
   justify-content: space-around;
   gap: 511px;
   height: 174px;
+  background-color: #FFFFFF;
 }
 .links {
   display: flex;
@@ -306,7 +307,7 @@ body {
 }
 .cover {
   max-width: 1300px;
-  background-color: #f7f4f4;
+  background-color: #F9F9F9;
 }
 /* control+f->for search */
 /* control+d->jis line pe bhi ham e dabaen gi wo jahan bhi ho ga select ho jaye gi */
@@ -324,6 +325,8 @@ body {
   background-color: #ffffff;
   border-radius: 10px;
   margin-left: 145px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+ 
 }
 .benefit2 {
   display: flex;
@@ -336,6 +339,8 @@ body {
   margin-left: 230px;
   margin-top: 56px;
   margin-bottom: 56px;
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+ 
 
 }
 .benefit1 div span {
@@ -385,6 +390,8 @@ body {
   background-color: #ffffff;
   border-radius: 10px;
   margin-left: 150px;
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+ 
 }
 
 
